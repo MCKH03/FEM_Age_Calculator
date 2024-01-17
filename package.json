@@ -1,0 +1,16 @@
+{
+  "name": "age-calculator-app",
+  "version": "1.0.0",
+  "description": "Age Calculator App",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm-run-all --parallel devserver watch:tailwind",
+    "watch:tailwind": "npx tailwindcss -i ./src/css/input.css -o ./src/css/output.css --watch",
+    "devserver": "live-server"
+  },
+  "author": "Mehrshad Cheshm Khavari",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
+  }
+}
