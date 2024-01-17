@@ -12,8 +12,6 @@ This is a solution to the [Age calculator app challenge on Frontend Mentor](http
   - [Built with](#built-with)
 - [Author](#author)
 
-**Note: Delete this note and update the table of contents based on what sections you keep.**
-
 ## Overview
 
 ### The challenge
@@ -37,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/age-calculator-app-with-tailwind-css-and-pure-javascript-YwXHEF8A0D)
+- Live Site URL: [Add live site URL here](https://mckh03.github.io/FEM_Age_Calculator/)
 
 ## My process
 
@@ -52,6 +50,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@MCKH03](https://www.frontendmentor.io/profile/MCKH03)
+- YouTube - [@CodeLabPlus](https://www.youtube.com/@codelabplus)
+- Telegram - [@JS_Challenges](https://t.me/js_challenges)
