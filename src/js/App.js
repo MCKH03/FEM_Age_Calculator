@@ -42,8 +42,11 @@ function checkInputEligibility(input, type) {
     return false;
   }
 
+  //// ! The last day of the month of the year of birth (added)
+  const lastDay = new Date(+inputYear.value, +inputMonth.value, 0).getDate();
+
   // Day input error //// ! (edited)
-  if (type === "day" && (+input.value > 30 || +input.value < 1)) {
+  if (type === "day" && (+input.value > lastDay || +input.value < 1)) {
     renderError(input, "Must be a valid day");
     return false;
   }
